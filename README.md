@@ -20,6 +20,8 @@ The script is organized in this way:
 
 3) lmer analysis with statsmodel package and assumption check.
 
+On the repository there are two .csv file as an example of the dataset creation from the raw data. One is single trial subject by subject, the other one
+is merged across condition and averaged.
 
 Attention required --> change the directory in the code where data are stored or saved in order to make the script run
 __________
