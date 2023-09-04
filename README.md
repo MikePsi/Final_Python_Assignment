@@ -20,7 +20,9 @@ The script is organized in this way:
 
 3) lmer analysis with statsmodel package and assumption check.
 
-___________
+
+Attention required --> change the directory in the code where data are stored or saved in order to make the script run
+__________
 
 Areas to improve in the future:
 
