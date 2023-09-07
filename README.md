@@ -8,9 +8,9 @@ However, the data analysis for the primary project in MATLAB and R is not yet co
 
 The script is organized as follows:
 
-The first part is dedicated to collecting data from the individual subject folders and storing it in a long-format table suitable for analysis.
+* The first part is dedicated to collecting data from the individual subject folders and storing it in a long-format table suitable for analysis.
 
-The second part focuses on preprocessing and generating data plots for visual inspection.
+* The second part focuses on preprocessing and generating data plots for visual inspection.
 
 Finally, it involves running an lmer analysis using the Statsmodels package and checking assumptions.
 
